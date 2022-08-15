@@ -1,6 +1,5 @@
 print("Bankamıza Hoşgeldiniz\n")
 
-şifre=1234
 şifre=int(input("Şifrenizi giriniz...\n"))
 
 if(şifre==1234):
